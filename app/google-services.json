@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "661603670536",
+    "project_id": "food-planet-74d15",
+    "storage_bucket": "food-planet-74d15.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:661603670536:android:4bff9f0e041a5af6d78fbd",
+        "android_client_info": {
+          "package_name": "com.example.vamsi.blogpost"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "661603670536-v4alpjr1oiv5t568921sg7jh7gmsh3k1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBQj9QL4ud_iDe31RYwyFpDEAHEJFH0Ecg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "661603670536-v4alpjr1oiv5t568921sg7jh7gmsh3k1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
